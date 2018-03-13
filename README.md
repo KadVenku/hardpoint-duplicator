@@ -9,6 +9,9 @@ If the hardpoint to duplicate is a turret, you can (but don't have to) check the
 
 ![](https://i.imgur.com/P1MJnNi.png)
 
+The tool will output a txt file with the created variants inside of your `P:\ath\to\yvaw-hardpointduplicator.exe\.hp-dump\timestamp-hp-dump.txt`
+Those variants can be copied to wherever you need them.
+
 ## Licensing
 The software is provided under the MIT License.
 Refer to the LICENSE file for details.
