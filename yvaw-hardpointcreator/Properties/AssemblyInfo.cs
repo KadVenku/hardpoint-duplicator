@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("yvaw-hardpointcreator")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("yvaw-hardpointduplicator")]
+[assembly: AssemblyDescription("A simple HardPoint duplication tool for Empire at War")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("yvaw-hardpointcreator")]
+[assembly: AssemblyCompany("Lukas Kad Venku Grünwald")]
+[assembly: AssemblyProduct("yvaw-hardpointduplicator")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
