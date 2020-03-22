@@ -1,4 +1,4 @@
-# YVaW Hardpoint Duplicator
+# Hardpoint Duplicator
 
 This tool can be used to quickly duplicate hardpoints for Empire at War
 
