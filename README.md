@@ -1,6 +1,8 @@
 # Hardpoint Duplicator
 
-This tool can be used to quickly duplicate hardpoints for Empire at War
+This tool can be used to quickly duplicate hardpoints for Empire at War.
+It is provided "as-is" and is not actively supported by its creator.
+If you want to pick it up and enhance it (because yes, it's hacky and ugly under the hood and needs some love) feel free to for and open a PR with your changes.
 
 ## Usage
 
@@ -9,7 +11,7 @@ If the hardpoint to duplicate is a turret, you can (but don't have to) check the
 
 ![](https://i.imgur.com/P1MJnNi.png)
 
-The tool will output a txt file with the created variants inside of your `P:\ath\to\yvaw-hardpointduplicator.exe\.hp-dump\timestamp-hp-dump.txt`
+The tool will output a txt file with the created variants inside of your `P:\ath\to\eaw.hardpointduplicator.exe\.hp-dump\timestamp-hp-dump.txt`
 Those variants can be copied to wherever you need them.
 
 ## Licensing
