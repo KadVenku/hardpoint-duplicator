@@ -2,7 +2,7 @@
 
 This tool can be used to quickly duplicate hardpoints for Empire at War.
 It is provided "as-is" and is not actively supported by its creator.
-If you want to pick it up and enhance it (because yes, it's hacky and ugly under the hood and needs some love) feel free to for and open a PR with your changes.
+If you want to pick it up and enhance it (because yes, it's hacky and ugly under the hood and needs some love) feel free to fork and open a PR with your changes.
 
 ## Usage
 
